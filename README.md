@@ -67,15 +67,8 @@ I'm Quoriath, the founder and lead developer of **Tool4File**. I'm passionate ab
 - **📥 Social Media Downloaders** - Save content from TikTok, YouTube, Spotify seamlessly
 - **♟️ Built-in Chess Game** - Enjoy classic chess entertainment during breaks
 
-### ⚡ **Premium Features**
-```
-✨ Ad-Free Experience - Uninterrupted, clean interface
-📊 Real-Time Progress Tracking - Monitor tasks with live updates  
-🌐 Bilingual Support - Full English & Indonesian localization
-🚀 Lightning Fast Performance - Optimized for speed and low battery usage
-🔄 Monthly Updates - Regular feature additions and improvements
-🎯 Perfect for students, creators, and professionals
-```
+### ⚡ **Why Choose NeoArchive?**
+Perfect for students, content creators, and professionals who need a comprehensive file management solution that combines power with simplicity.
 
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.tool4file.neo_archive">
@@ -110,58 +103,22 @@ I'm Quoriath, the founder and lead developer of **Tool4File**. I'm passionate ab
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### **AI & Advanced Technologies**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+### **Smart Technologies**
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### **Design & UI/UX**
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 Development Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quoriath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoriath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=quoriath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=00d9ff&text_color=ffffff&border_radius=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoriath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quoriath&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quoriath&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=00d9ff&fire=6366f1&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=6366f1&sideNums=6366f1&dates=ffffff&border_radius=10" alt="GitHub Streak" />
 </div>
-
----
-
-## 🎯 Current Focus & Roadmap
-
-### 🔥 **What's Coming Next for Tool4File**
-- 🚀 **NeoArchive 2.0** - Major update with AI-powered file organization
-- 🤖 **Advanced AI Features** - Smart categorization and automatic file management
-- 📱 **New Productivity Tools** - Expanding the Tool4File ecosystem
-- 🌐 **Cross-platform Expansion** - Exploring Windows and web versions
-- 🔧 **Developer APIs** - Open toolkit for other developers
-
-### 💡 **Innovation Areas**
-```
-🧠 AI-Powered File Management
-🔐 Advanced Security & Privacy Tools  
-⚡ Performance Optimization Algorithms
-🎨 Next-Gen User Interface Design
-📊 Data Analytics & Insights
-🌍 Cloud Integration Solutions
-```
-
-### 🎯 **2025 Goals**
-- Launch 2+ major app updates
-- Reach 100K+ NeoArchive downloads
-- Implement machine learning features
-- Build developer community
-- Open source selected components
 
 ---
 
@@ -174,17 +131,17 @@ I'm Quoriath, the founder and lead developer of **Tool4File**. I'm passionate ab
 [![Google Play](https://img.shields.io/badge/Google%20Play%20Console-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Tool4File)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tool4file.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quoriath)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quoriath.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tool4file.com)
 
 </div>
 
-### 🌟 **Support My Work**
-If you love NeoArchive and my projects:
+### 🌟 **Support Tool4File & My Work**
+If you love NeoArchive and Tool4File projects:
 - ⭐ **Star my repositories** to show support
-- 📝 **Leave a review on Google Play** to help others discover the app
+- 📝 **Leave a review on Google Play** to help others discover NeoArchive
 - 🐛 **Report bugs or suggest features** through GitHub issues
-- 💬 **Spread the word** and share with friends who need powerful file management
-- 🤝 **Collaborate** on open source projects
+- 💬 **Spread the word** and share Tool4File with friends who need powerful file management
+- 🤝 **Collaborate** on Tool4File open source projects
 
 ---
 
@@ -194,12 +151,12 @@ If you love NeoArchive and my projects:
 
 | 🎯 **Metric** | 📊 **Achievement** |
 |:---:|:---:|
-| 📱 **Apps Published** | 1+ (Growing) |
-| ⭐ **Total App Ratings** | Excellent Reviews |
-| 🌍 **Global Reach** | Worldwide Availability |
-| 🔄 **Update Frequency** | Monthly Releases |
-| 👥 **User Satisfaction** | High Retention Rate |
-| 🛠️ **Features Delivered** | 20+ Premium Tools |
+| 📱 **Active Projects** | Tool4File Ecosystem |
+| ⭐ **Primary Focus** | Android Development |
+| 🌍 **Market Reach** | Global Availability |
+| 🛠️ **Expertise** | File Management Solutions |
+| 👥 **Target Audience** | Students, Creators, Professionals |
+| 🔧 **Development Style** | User-Centric Design |
 
 </div>
 
@@ -216,7 +173,7 @@ If you love NeoArchive and my projects:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" />
   
-  **"Transforming Android experiences, one innovative app at a time"** ✨
+  **"Transforming Android experiences through Tool4File, one innovative app at a time"** ✨
   
-  <sub>Made with ❤️ by Quoriath | Tool4File</sub>
+  <sub>Made with ❤️ by Quoriath | Founder of Tool4File</sub>
 </div>
