@@ -38,6 +38,9 @@ My mission: **turn complex digital tasks into seamless experiences**.
 - ⚡ **Media Tools** – Compress, convert, extract, merge, and more  
 - 🎨 **Customization** – Themes, widgets, and UI personalization  
 
+**Tech Stack:**  
+`Flutter · Java · Kotlin · Firebase · Vertex AI`
+
 📥 **[Download NeoArchive on Google Play](https://play.google.com/store/apps/details?id=com.tool4file.neo_archive)**
 
 ---
@@ -50,33 +53,32 @@ My mission: **turn complex digital tasks into seamless experiences**.
 - ⚡ **Smart Tools** – Compress, upscale, remove background, and more  
 - 🎨 **Creative Freedom** – Turn photos into stunning artworks effortlessly  
 
+**Tech Stack:**  
+`Flutter · Firebase · AI/ML · OpenCV`
+
 Stay tuned for updates — IllumifyVX is designed to be **the most powerful AI photo editor for Android**.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Global Tech Stack
 
 - **Languages & Frameworks**: Kotlin, Java, Flutter  
 - **Tools**: Android Studio, Gradle, Firebase, Git  
-- **Smart Tech**: AI/ML Kit, Cloud-based APIs  
+- **Smart Tech**: AI/ML Kit, OpenCV, Cloud APIs  
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Connect with Tool4File
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=quoriath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=00d9ff&text_color=ffffff&border_radius=10"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoriath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&border_radius=10"/>
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Tool4File)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tool4file)  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@tool4file)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tool4file)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tool4file)  
+
 </div>
-
----
-
-## 🤝 Connect with Me
-
-[![Google Play](https://img.shields.io/badge/Google%20Play%20Console-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Tool4File)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tool4file.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quoriath)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tool4file.com)
 
 ---
 
