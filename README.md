@@ -99,7 +99,7 @@ My goal is simple: **solve everyday digital problems with tools that feel fast, 
 <a href="https://www.threads.net/@tool4file">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
 </a>
-<a href="https://www.tiktok.com/@tool4file">
+<a href="https://www.tiktok.com/@tool4file_">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 <a href="https://x.com/tool4file">
