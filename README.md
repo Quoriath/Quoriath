@@ -19,14 +19,30 @@
 I’m **Quoriath**, an indie Android developer focused on delivering **high-quality apps** that balance  
 **performance, clean design, and real-world usefulness**.
 
-My goal is simple: **solve everyday digital problems with tools that feel fast, modern, and intuitive**.
+---
 
-**What I focus on:**
-- 📱 **Android Development** — Scalable, production-ready apps  
-- 🗂️ **File & Media Solutions** — Organize, process, and optimize with ease  
-- 🎨 **UI/UX Craftsmanship** — Minimalist, consistent, user-first design  
-- 🤖 **AI-Powered Features** — Practical AI, not gimmicks  
-- 🧠 **Problem Solving** — Turning complexity into clarity  
+## 🛠️ Comprehensive Tech Arsenal
+*Teknologi yang pernah saya jelajahi dan gunakan dalam berbagai proyek:*
+
+<div align="left">
+
+**Core & Systems:** ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Web Development:** ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Nuxt JS](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
+![Vue JS](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Graphics & Others:** ![Pixi JS](https://img.shields.io/badge/Pixi.js-E91E63?style=flat-square&logo=pixijs&logoColor=white)
+![Phaser JS](https://img.shields.io/badge/Phaser-812191?style=flat-square&logo=phaser&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
@@ -35,52 +51,35 @@ My goal is simple: **solve everyday digital problems with tools that feel fast, 
 ### 🗃️ NeoArchive — *Advanced File & Media Manager*
 > 🚀 A powerful all-in-one file manager and media toolkit built for modern Android.
 
-**NeoArchive** is designed to replace multiple apps with a single, polished solution.
-
 **Key Features:**
-- 📁 **Smart File Explorer** — Fast navigation, deep control  
-- 🖼️ **Unified Media Center** — Images, videos, audio, and documents  
-- 📊 **Storage Insights** — Identify junk files and reclaim space  
-- ⚡ **Media Utilities** — Compress, convert, extract, merge, and manage  
-- 🎨 **Personalization** — Themes, layouts, and visual customization  
+- 📁 **Smart File Explorer** — Navigasi cepat, kontrol mendalam.
+- 🖼️ **Unified Media Center** — Gambar, video, audio, dan dokumen.
+- 📊 **Storage Insights** — Identifikasi file sampah & kelola ruang.
+- ⚡ **Media Utilities** — Compress, convert, extract, merge.
 
 **Tech Stack:**
-<div align="left">
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 📥 **[Download NeoArchive on Google Play](https://play.google.com/store/apps/details?id=com.tool4file.neo_archive)**
 
 ---
 
 ### ✨ IllumifyVX — *AI-Powered Photo Editor*
-> 🎨 A next-generation photo editor combining **professional tools** with **intelligent AI automation**.
-
-**IllumifyVX** is built for creators who want speed, quality, and creative freedom — without complexity.
+> 🎨 Next-generation photo editor combining professional tools with AI automation.
 
 **Key Features:**
-- 🖌️ **Professional Editing Tools** — Filters, curves, overlays, retouching  
-- 🤖 **AI Enhancements** — Auto-enhance, restore, upscale, and optimize  
-- ⚡ **Smart Utilities** — Background removal, compression, clarity boost  
-- 🎨 **Creative Effects** — Transform photos into polished visual art  
+- 🖌️ **Professional Editing** — Filters, curves, overlays, retouching.
+- 🤖 **AI Enhancements** — Auto-enhance, restore, upscale.
+- ⚡ **Smart Utilities** — Background removal, clarity boost.
 
 **Tech Stack:**
-<div align="left">
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</div>
+![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 📥 **[Download IllumifyVX on Google Play](https://play.google.com/store/apps/details?id=com.tool4file.illumifyvx)**
 
@@ -89,23 +88,15 @@ My goal is simple: **solve everyday digital problems with tools that feel fast, 
 ## 🤝 Connect with Tool4File
 
 <div align="center">
-
 <a href="https://play.google.com/store/apps/developer?id=Tool4File">
   <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
 <a href="https://instagram.com/tool4file">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.threads.net/@tool4file">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
-</a>
-<a href="https://www.tiktok.com/@tool4file_">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
 <a href="https://x.com/tool4file">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
 </div>
 
 ---
