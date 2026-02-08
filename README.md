@@ -22,15 +22,16 @@ I’m **Quoriath**, an indie Android developer focused on delivering **high-qual
 **Technologies I Work With:**
 > ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Vue JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/-Foundry-FF3E00?style=flat-square&logo=fire&logoColor=white) ![Ronin](https://img.shields.io/badge/-Ronin%20Chain-1273EA?style=flat-square&logo=skymavis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Pixi JS](https://img.shields.io/badge/-Pixi.js-E91E63?style=flat-square&logo=pixijs&logoColor=white) ![Phaser](https://img.shields.io/badge/-Phaser-812191?style=flat-square&logo=phaser&logoColor=white) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
+### 📊 Git Insight & Contribution
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quoriath&theme=dark" width="100%" alt="Profile Details" />
+</div>
+
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quoriath&show_icons=true&theme=transparent&title_color=6366F1&text_color=ffffff&icon_color=6366F1&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoriath&layout=compact&theme=transparent&title_color=6366F1&text_color=ffffff&hide_border=true" width="38%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/quoriath/quoriath/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quoriath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoriath&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </div>
 
 ---
