@@ -28,13 +28,11 @@ I’m **Quoriath**, an indie Android developer focused on delivering **high-qual
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=quoriath&theme=react-dark&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quoriath&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=00d9ff&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoriath&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1" width="38%" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quoriath&theme=tokyonight&hide_border=true&stroke=6366F1&ring=6366F1&fire=FF3E00" width="87%" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=quoriath&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=00d9ff&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=quoriath&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1" width="38%" />
 </div>
 
 ---
