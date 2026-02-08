@@ -19,14 +19,22 @@
 I’m **Quoriath**, an indie Android developer focused on delivering **high-quality apps** that balance  
 **performance, clean design, and real-world usefulness**.
 
-**What I focus on:**
-- 📱 **Android Development** — Scalable, production-ready apps  
-- 🗂️ **File & Media Solutions** — Organize, process, and optimize with ease  
-- 🎨 **UI/UX Craftsmanship** — Minimalist, consistent, user-first design  
-- 🤖 **AI-Powered Features** — Practical AI, not gimmicks  
+### 🛠️ My Tech Stack
 
-**Other Technologies I've Worked With:**
-> ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white) ![Vue JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Pixi JS](https://img.shields.io/badge/-Pixi.js-E91E63?style=flat-square&logo=pixijs&logoColor=white) ![Phaser](https://img.shields.io/badge/-Phaser-812191?style=flat-square&logo=phaser&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+**Mobile & Desktop**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+**Web Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white) ![Vue JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Systems & Performance**
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+
+**Web3 & Blockchain**
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/-Foundry-FF3E00?style=flat-square&logo=fire&logoColor=white) ![Ronin](https://img.shields.io/badge/-Ronin%20Chain-1273EA?style=flat-square&logo=skymavis&logoColor=white)
+
+**Game Dev & Backend**
+![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Pixi JS](https://img.shields.io/badge/-Pixi.js-E91E63?style=flat-square&logo=pixijs&logoColor=white) ![Phaser](https://img.shields.io/badge/-Phaser-812191?style=flat-square&logo=phaser&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -75,5 +83,6 @@ I’m **Quoriath**, an indie Android developer focused on delivering **high-qual
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&text=Thanks%20for%20Stopping%20By!&fontSize=18&fontColor=ffffff&animation=twinkling" />
+  <br>
   <sub>Built with care by Quoriath — Founder of Tool4File</sub>
 </div>
