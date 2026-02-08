@@ -22,15 +22,15 @@ I’m **Quoriath**, an indie Android developer focused on delivering **high-qual
 **Technologies I Work With:**
 > ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Vue JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/-Foundry-FF3E00?style=flat-square&logo=fire&logoColor=white) ![Ronin](https://img.shields.io/badge/-Ronin%20Chain-1273EA?style=flat-square&logo=skymavis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Pixi JS](https://img.shields.io/badge/-Pixi.js-E91E63?style=flat-square&logo=pixijs&logoColor=white) ![Phaser](https://img.shields.io/badge/-Phaser-812191?style=flat-square&logo=phaser&logoColor=white) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quoriath&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quoriath&show_icons=true&theme=transparent&title_color=6366F1&text_color=ffffff&icon_color=6366F1&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoriath&layout=compact&theme=transparent&title_color=6366F1&text_color=ffffff&hide_border=true" width="38%" />
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quoriath&show_icons=true&theme=transparent&title_color=6366F1&icon_color=00d9ff&text_color=ffffff&hide_border=true" alt="Quoriath's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoriath&layout=compact&theme=transparent&title_color=6366F1&text_color=ffffff&hide_border=true" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/quoriath/quoriath/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -39,12 +39,6 @@ I’m **Quoriath**, an indie Android developer focused on delivering **high-qual
 
 ### 🗃️ NeoArchive — *Advanced File & Media Manager*
 > 🚀 A powerful all-in-one file manager and media toolkit built for modern Android.
-
-**Key Features:**
-- 📁 **Smart File Explorer** — Fast navigation, deep control  
-- 🖼️ **Unified Media Center** — Images, videos, audio, and documents  
-- 📊 **Storage Insights** — Identify junk files and reclaim space  
-- ⚡ **Media Utilities** — Compress, convert, extract, merge, and manage  
 
 **Main Tech Stack:**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -55,11 +49,6 @@ I’m **Quoriath**, an indie Android developer focused on delivering **high-qual
 
 ### ✨ IllumifyVX — *AI-Powered Photo Editor*
 > 🎨 A next-generation photo editor combining professional tools with intelligent AI automation.
-
-**Key Features:**
-- 🖌️ **Professional Editing Tools** — Filters, curves, overlays, retouching  
-- 🤖 **AI Enhancements** — Auto-enhance, restore, upscale, and optimize  
-- ⚡ **Smart Utilities** — Background removal, compression, clarity boost  
 
 **Main Tech Stack:**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
