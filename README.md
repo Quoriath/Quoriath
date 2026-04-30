@@ -67,7 +67,7 @@ I’m **Quoriath**, an indie Android developer focused on delivering **high-qual
 - 🎥 **Pro Export Options** — Custom bitrate, variable framerates, and lossless formats  
 
 **Main Tech Stack:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Status](https://img.shields.io/badge/Status-Coming%20Soon%202026-orange?style=for-the-badge&logo=time&logoColor=white)
 
