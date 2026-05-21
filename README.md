@@ -1,90 +1,133 @@
-# Hi there, I'm Quoriath 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Welcome+to+Quoriath's+Profile;Founder+of+Tool4File;Crafting+Powerful+Android+Apps;Design+Meets+Performance+%26+AI" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=30,24,20,12&text=Quoriath&fontSize=82&fontAlignY=36&desc=Founder%20of%20Tool4File%20•%20Android%20Engineer%20•%20AI%20Builder&descAlignY=58&animation=fadeIn&theme=tokyonight" alt="Hero Banner" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=quoriath&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Android%20%7C%20AI%20Applications-6366f1?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Shipping%20Real%20Products-00d9ff?style=flat-square" alt="Status" />
-</div>
-
----
-
-## 🚀 About Me
-
-> **Founder of Tool4File — Building practical, elegant, and intelligent Android applications**
-
-I’m **Quoriath**, an indie Android developer focused on delivering **high-quality apps** that balance  
-**performance, clean design, and real-world usefulness**.
-
-**Technologies I Work With:**
-> ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Vue JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/-Foundry-FF3E00?style=flat-square&logo=fire&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ronin](https://img.shields.io/badge/-Ronin%20Chain-1273EA?style=flat-square&logo=ethereum&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Pixi JS](https://img.shields.io/badge/-Pixi.js-E91E63?style=flat-square&logo=javascript&logoColor=white) ![Phaser](https://img.shields.io/badge/-Phaser-812191?style=flat-square&logo=phaser&logoColor=white) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/-Hyprland-00AED1?style=flat-square&logo=arch-linux&logoColor=white)
-
----
-
-## 🌟 Flagship Applications
-
-### 🗃️ NeoArchive — *Advanced File & Media Manager*
-> 🚀 A powerful all-in-one file manager and media toolkit built for modern Android.
-
-**Key Features:**
-- 📁 **Smart File Explorer** — Fast navigation, deep control  
-- 🖼️ **Unified Media Center** — Images, videos, audio, and documents  
-- 📊 **Storage Insights** — Identify junk files and reclaim space  
-- ⚡ **Media Utilities** — Compress, convert, extract, merge, and manage  
-
-**Main Tech Stack:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-📥 **[Download NeoArchive on Google Play](https://play.google.com/store/apps/details?id=com.tool4file.neo_archive)**
-
----
-
-### ✨ IllumifyVX — *AI-Powered Photo Editor*
-> 🎨 A next-generation photo editor combining professional tools with intelligent AI automation.
-
-**Key Features:**
-- 🖌️ **Professional Editing Tools** — Filters, curves, overlays, retouching  
-- 🤖 **AI Enhancements** — Auto-enhance, restore, upscale, and optimize  
-- ⚡ **Smart Utilities** — Background removal, compression, clarity boost  
-
-**Main Tech Stack:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-📥 **[Download IllumifyVX on Google Play](https://play.google.com/store/apps/details?id=com.tool4file.illumifyvx)**
-
----
-
-### 🔜 Illumify Motion — *Pro Video Editor*
-> 🎬 The ultimate non-linear video editing experience. Precision control, raw performance, no gimmicks.
-
-**Key Features:**
-- 🎞️ **Multi-Track Timeline** — Layer video, audio, and effects with pixel-perfect precision  
-- ⚡ **High-Performance Engine** — Hardware-accelerated rendering tailored for 4K editing  
-- 🎨 **Manual Color Grading** — Professional HSL, curves, and LUT support  
-- 🎥 **Pro Export Options** — Custom bitrate, variable framerates, and lossless formats  
-
-**Main Tech Stack:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Status](https://img.shields.io/badge/Status-Coming%20Soon%202026-orange?style=for-the-badge&logo=time&logoColor=white)
-
----
-
-## 🤝 Connect with Tool4File
+<br>
 
 <div align="center">
-<a href="https://play.google.com/store/apps/developer?id=Tool4File"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
-<a href="https://instagram.com/tool4file"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/tool4file"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1200&color=7C83FD&center=true&vCenter=true&width=900&lines=Crafting+Powerful+Android+Experiences;Performance+First+Architecture;Design+Meets+Engineering;Building+Real+Products+for+Real+People;Arch+Linux+%2B+Hyprland+Enthusiast" alt="Typing Intro" />
+
+  <br><br>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/ROLE-ANDROID_ENGINEER-7C83FD?style=for-the-badge&labelColor=0b0f1a" />
+    <img src="https://img.shields.io/badge/FOCUS-AI_%26_PERFORMANCE-00C2FF?style=for-the-badge&labelColor=0b0f1a" />
+    <img src="https://img.shields.io/badge/STACK-KOTLIN_%7C_FLUTTER_%7C_RUST-F7B801?style=for-the-badge&labelColor=0b0f1a" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/OS-ARCH_LINUX-1793D1?style=for-the-badge&logo=arch-linux&labelColor=0b0f1a" />
+    <img src="https://img.shields.io/badge/WM-HYPRLAND-00D4FF?style=for-the-badge&labelColor=0b0f1a" />
+    <img src="https://img.shields.io/badge/EDITOR-NEOVIM-57A143?style=for-the-badge&labelColor=0b0f1a" />
+  </p>
 </div>
 
 ---
 
+# ✦ Engineering Philosophy
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&text=Thanks%20for%20Stopping%20By!&fontSize=18&fontColor=ffffff&animation=twinkling" />
+
+| Principle | Core Execution & Mindset |
+| :--- | :--- |
+| **⚡ Performance First** | Fast software feels invisible. Zero compromise on latency and resource usage. |
+| **🎨 Minimal UI** | Clean interfaces, pixel-perfect layouts, and zero unnecessary distractions. |
+| **🧠 AI With Purpose** | Integrating intelligent systems to deliver real utility over temporary hype. |
+| **🔒 Local-First** | Privacy stays on-device. Heavy-lifting processing happens locally wherever possible. |
+| **📱 Native Feel** | Respecting the platform ecosystem to deliver a buttery-smooth Android experience. |
+
+</div>
+
+---
+
+# ✦ Flagship Ecosystem
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top" style="border-right: 1px solid #22272e; padding-right: 15px;">
+        <div align="center">
+          <h3>🗃️ NeoArchive</h3>
+          <p><i>Advanced file & media management ecosystem engineered for modern Android devices.</i></p>
+          <p>⚡ Fast Indexing • 🧠 Smart Analytics<br>🖼️ Unified Media • 🔒 Local Processing</p>
+          <br>
+          <img src="https://skillicons.dev/icons?i=flutter,kotlin,firebase,gcp" alt="NeoArchive Stack" />
+          <br><br>
+          <a href="https://play.google.com/store/apps/details?id=com.tool4file.neo_archive">
+            <img src="https://img.shields.io/badge/Get_it_on_Google_Play-111111?style=for-the-badge&logo=google-play&logoColor=7C83FD" alt="Play Store" />
+          </a>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 15px;">
+        <div align="center">
+          <h3>✨ IllumifyVX</h3>
+          <p><i>AI-assisted photo editing platform engineered for creators and mobile professionals.</i></p>
+          <p>🎨 Editing Pipeline • 🤖 AI Enhancement<br>⚡ Real-Time Engine • 🖼️ Restoration Tools</p>
+          <br>
+          <img src="https://skillicons.dev/icons?i=flutter,go,opencv" alt="IllumifyVX Stack" />
+          <br><br>
+          <a href="https://play.google.com/store/apps/details?id=com.tool4file.illumifyvx">
+            <img src="https://img.shields.io/badge/Get_it_on_Google_Play-111111?style=for-the-badge&logo=google-play&logoColor=00C2FF" alt="Play Store" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🎬 Premium Highlight: Illumify Motion `COMING SOON • 2026`
+> Next-generation nonlinear mobile video editor designed for creators who demand precision and speed.
+
+<div align="center">
+  <p>🎞️ Timeline Engine • ⚡ GPU Rendering • 🎨 Color Grading • 📦 Lossless Export</p>
+  <img src="https://skillicons.dev/icons?i=flutter,rust,kotlin,cpp" alt="Illumify Motion Core Stack" />
+</div>
+
+---
+
+# ✦ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,react,nextjs,vue,svelte,astro,go,rust,cpp,cs,python,mongodb,firebase,gcp,cloudflare,tauri,linux" alt="Tech Arsenal Grid" />
+</div>
+
+---
+
+# ✦ Current Exploration
+
+<div align="center">
+
+| Domain | Focus Area | Core Target |
+| :--- | :--- | :--- |
+| **🤖 AI** | On-device Intelligence | Running optimized mini-LLMs and local vision models. |
+| **⚡ Systems** | Rust Acceleration | Building native compilation tools for memory safety and speed. |
+| **📱 Android** | Native Performance | Bypassing abstractions for direct system rendering layers. |
+| **🎬 Media** | GPU Processing | Creating ultra-fast parallel media pipelines using hardware shaders. |
+
+</div>
+
+---
+
+# ✦ Connect & Collaborate
+
+<div align="center">
+  <a href="https://play.google.com/store/apps/developer?id=Tool4File">
+    <img src="https://img.shields.io/badge/Google_Play-111111?style=for-the-badge&logo=google-play&logoColor=7C83FD" alt="Google Play Store" />
+  </a>
+  <a href="https://instagram.com/tool4file">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://x.com/tool4file">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=30,24,20,12&section=footer&animation=twinkling&theme=tokyonight" alt="Footer Wave" />
   <br>
-  <sub>Built with care by Quoriath — Founder of Tool4File</sub>
+  <h3>“Build things that people actually use.”</h3>
+  <sub>Engineered by <b>Quoriath</b> • Powered by Open Source</sub>
 </div>
